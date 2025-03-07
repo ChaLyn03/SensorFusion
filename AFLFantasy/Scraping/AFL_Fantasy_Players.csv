@@ -1,0 +1,791 @@
+Player ID,First Name,Last Name,Position,Salary ($),Games Played,Total Points,Average Points
+992468,Rowan,Marshall,Ruck,1201000,23,2693,117.1
+1004965,Tristan,Xerri,Ruck,1175000,23,2633,114.5
+1023518,Harry,Sheezel,Defender,1151000,21,2355,112.1
+290528,Max,Gawn,Ruck,1147000,21,2347,111.8
+294305,Lachie,Whitfield,Defender,1146000,23,2569,111.7
+261224,Dayne,Zorko,Defender,1131000,23,2536,110.3
+291790,Adam,Treloar,Midfielder,1129000,22,2420,110
+992016,Zach,Merrett,Midfielder,1116000,23,2503,108.8
+1013128,Errol,Gulden,Midfielder,1113000,23,2495,108.5
+1009260,Sam,Flanders,Defender / Midfielder,1106000,22,2371,107.8
+993834,Josh,Dunkley,Midfielder,1102000,23,2471,107.4
+297373,Marcus,Bontempelli,Midfielder,1101000,23,2469,107.3
+1026850,Nic,Martin,Defender,1100000,23,2466,107.2
+296205,Jack,Steele,Midfielder,1094000,23,2452,106.6
+1006121,Zak,Butters,Midfielder,1089000,23,2441,106.1
+1006094,Sam,Walsh,Midfielder,1089000,19,2016,106.1
+992242,Jordan,Dawson,Midfielder,1080000,22,2316,105.3
+298539,Isaac,Heeney,Midfielder,1079000,21,2209,105.2
+1004592,Tim,English,Ruck,1074000,22,2302,104.6
+1023261,Nick,Daicos,Midfielder,1074000,23,2408,104.7
+1002232,Andrew,Brayshaw,Midfielder,1073000,23,2406,104.6
+1009199,Noah,Anderson,Midfielder,1067000,23,2390,103.9
+1009420,Caleb,Serong,Midfielder,1067000,23,2390,103.9
+297907,Nic,Newman,Defender,1052000,23,2359,102.6
+998659,Luke,Ryan,Defender,1048000,23,2349,102.1
+297401,Matt,Crouch,Midfielder,1046000,15,1529,101.9
+994389,Jack,Sinclair,Defender / Midfielder,1046000,22,2242,101.9
+293535,Lachie,Neale,Midfielder,1038000,22,2221,101
+298174,Toby,Nankervis,Ruck,1032000,21,2112,100.6
+990704,Patrick,Cripps,Midfielder,1026000,23,2301,100
+1009528,Tom,Green,Midfielder,1025000,23,2298,99.9
+293222,Rory,Laird,Midfielder,1019000,23,2285,99.3
+1015507,Nasiah,Wanganeen-Milera,Defender,1003000,22,2150,97.7
+1000978,Hugh,McCluggage,Midfielder,999000,23,2239,97.3
+293957,Brodie,Grundy,Ruck,997000,23,2234,97.1
+1001299,Connor,Rozee,Midfielder,996000,20,1941,97.1
+1006152,Jordan,Clark,Defender,994000,23,2228,96.9
+291975,Jarrod,Witts,Ruck,988000,16,1541,96.3
+990291,Darcy,Cameron,Ruck,987000,23,2212,96.2
+1002267,Luke,Davies-Uniacke,Midfielder,984000,23,2205,95.9
+998172,Tim,Taranto,Midfielder,980000,15,1433,95.5
+296347,Josh,Kelly,Midfielder,977000,15,1428,95.2
+1005054,Josh,Daicos,Midfielder,973000,23,2181,94.8
+1015889,Max,Holmes,Defender / Midfielder,969000,23,2173,94.5
+1006103,Jye,Caldwell,Midfielder,969000,23,2170,94.3
+994295,Dan,Houston,Defender,964000,22,2068,94
+1009208,Matt,Rowell,Midfielder,962000,23,2156,93.7
+1012014,Chad,Warner,Midfielder,961000,22,2061,93.7
+298272,Touk,Miller,Midfielder,955000,18,1675,93.1
+1009256,Hayden,Young,Midfielder,953000,23,2137,92.9
+996708,Bailey,Dale,Defender,950000,23,2130,92.6
+1006314,Dylan,Moore,Forward,944000,23,2116,92
+993817,Darcy,Parish,Midfielder,940000,12,1099,91.6
+1008436,Kieren,Briggs,Ruck,938000,22,2012,91.5
+297523,Reilly,O'Brien,Ruck,934000,21,1911,91
+292128,Elliot,Yeo,Midfielder,933000,20,1818,90.9
+294318,Ollie,Wines,Midfielder,930000,22,1997,90.8
+298210,Christian,Petracca,Midfielder,923000,13,1173,90.2
+1011640,Jason,Horne-Francis,Midfielder / Forward,919000,21,1880,89.5
+298268,Liam,Duggan,Defender,910000,21,1863,88.7
+296294,Blake,Acres,Midfielder,909000,22,1949,88.6
+1000980,Lloyd,Meek,Ruck,907000,19,1679,88.4
+1004912,Tom,De Koning,Ruck,900000,17,1492,87.8
+291800,Tom,Stewart,Defender,899000,22,1928,87.6
+290799,Tom,Liberatore,Midfielder,898000,17,1488,87.5
+291902,Jack,Viney,Midfielder,897000,23,2010,87.4
+297566,James,Sicily,Defender,896000,20,1747,87.4
+297354,Karl,Amon,Defender,892000,23,2000,87
+1008280,Ed,Richards,Midfielder,882000,20,1720,86
+295898,Tim,Kelly,Midfielder,881000,20,1718,85.9
+1002251,Brent,Daniels,Forward,881000,21,1803,85.9
+1001026,Jordan,Ridley,Defender,880000,9,796,88.4
+1020895,Jai,Newcombe,Midfielder,880000,23,1973,85.8
+1005521,Oscar,McInerney,Ruck,879000,22,1884,85.6
+1000972,Willem,Drew,Midfielder,876000,23,1963,85.3
+1006136,Lachlan,Sholl,Midfielder,875000,20,1706,85.3
+1004938,Gryan,Miers,Forward,874000,23,1959,85.2
+1006126,James,Rowbottom,Midfielder,869000,21,1778,84.7
+998133,Jarrod,Berry,Midfielder,865000,23,1944,84.5
+296296,Dom,Sheed,Midfielder,864000,8,357,44.6
+998102,Andrew,McGrath,Defender,864000,23,1937,84.2
+293845,Jeremy,Cameron,Forward,862000,22,1848,84
+997078,Mason,Redman,Defender,860000,21,1761,83.9
+1000981,Daniel,Rioli,Defender,857000,23,1921,83.5
+293871,Jack,Crisp,Midfielder,852000,23,1911,83.1
+294036,George,Hewett,Midfielder,852000,21,1744,83
+1015810,Sam,Durham,Midfielder,851000,22,1825,83
+1004863,Mitchell,Hinge,Defender,849000,22,1820,82.7
+295340,Mason,Wood,Midfielder / Forward,847000,18,1486,82.6
+999827,Zac,Fisher,Defender,846000,18,1484,82.4
+993903,Jacob,Hopper,Midfielder,846000,12,990,82.5
+1024272,Colby,McKercher,Defender,845000,16,1317,82.3
+1023517,Will,Ashcroft,Midfielder,843000,9,762,84.7
+1009378,Trent,Rivers,Defender / Midfielder,841000,23,1886,82
+1006028,Nick,Blakey,Defender,841000,23,1885,82
+1000953,Harry,McKay,Forward,840000,20,1637,81.9
+1006096,Xavier,Duursma,Midfielder,839000,15,1227,81.8
+290778,Luke,Parker,Midfielder / Forward,839000,7,461,65.9
+992330,Jordon,Sweet,Ruck,838000,14,1144,81.7
+294674,Nick,Vlastuin,Defender,836000,22,1793,81.5
+294101,Jason,Johannisen,Defender,834000,9,754,83.8
+998215,Will,Setterfield,Midfielder,833000,4,396,99
+291856,Tom,Mitchell,Midfielder,829000,6,467,77.8
+294859,Jeremy,McGovern,Defender,825000,19,1527,80.4
+992049,Jayden,Short,Defender,825000,22,1770,80.5
+993107,Harry,Himmelberg,Defender,825000,23,1849,80.4
+296359,Christian,Salem,Defender,824000,17,1365,80.3
+1006058,Bailey,Scott,Midfielder,821000,23,1840,80
+994185,Jordan,De Goey,Midfielder,819000,13,1038,79.8
+1001195,Izak,Rankine,Forward,819000,15,1197,79.8
+270917,Patrick,Dangerfield,Midfielder,816000,14,1114,79.6
+298264,Ed,Langdon,Midfielder,814000,22,1745,79.3
+260257,Scott,Pendlebury,Midfielder,812000,20,1583,79.2
+1011936,Justin,McInerney,Midfielder,811000,17,1343,79
+296420,Alex,Neal-Bullen,Midfielder / Forward,811000,23,1817,79
+1011659,Tom,Powell,Midfielder,807000,23,1810,78.7
+1009399,Luke,Jackson,Ruck / Forward,807000,23,1808,78.6
+1000223,Liam,Baker,Midfielder / Forward,805000,18,1413,78.5
+998260,Jack,Bowes,Midfielder,805000,20,1569,78.5
+1002253,Kane,Farrell,Defender,804000,22,1724,78.4
+1023477,George,Wardlaw,Midfielder,803000,18,1408,78.2
+1017094,Connor,Macdonald,Forward,800000,23,1794,78
+998145,Sean,Darcy,Ruck,798000,12,933,77.8
+1005144,Massimo,D'Ambrosio,Midfielder,798000,22,1712,77.8
+296254,Jarman,Impey,Defender,798000,23,1788,77.7
+996701,Clayton,Oliver,Midfielder,797000,21,1632,77.7
+1002222,James,Worpel,Midfielder,796000,23,1784,77.6
+281065,Mitch,Duncan,Defender,795000,20,1549,77.5
+1009253,Lachie,Ash,Defender,794000,17,1315,77.4
+1001398,Matthew,Kennedy,Midfielder / Forward,791000,23,1773,77.1
+291969,Stephen,Coniglio,Midfielder,789000,13,1000,76.9
+1017109,Jake,Soligo,Midfielder,789000,23,1768,76.9
+1023266,Finn,Callaghan,Midfielder,789000,22,1691,76.9
+296324,Jesse,Hogan,Forward,788000,23,1766,76.8
+993946,Ben,Keays,Forward,786000,23,1763,76.7
+998103,Oliver,Florent,Defender,785000,23,1760,76.5
+1013462,Jase,Burgoyne,Midfielder,785000,20,1531,76.6
+996554,Jake,Waterman,Forward,785000,20,1531,76.6
+294643,Alex,Sexton,Defender,783000,15,1145,76.3
+295518,Sam,Docherty,Midfielder,782000,1,48,48
+993998,Jy,Simpkin,Midfielder / Forward,781000,18,1371,76.2
+1012210,Matt,Roberts,Defender,780000,20,1521,76.1
+295342,Jake,Lloyd,Defender / Midfielder,779000,23,1746,75.9
+281085,Steven,May,Defender,778000,19,1440,75.8
+1017126,Sam,Darcy,Forward,778000,20,1517,75.9
+1012819,Josh,Treacy,Forward,778000,20,1517,75.9
+992351,Bailey,Williams,Midfielder,773000,23,1733,75.3
+1017067,Darcy,Wilmot,Defender,771000,23,1728,75.1
+1004870,Zach,Guthrie,Defender,770000,23,1726,75
+1009191,Miles,Bergman,Defender / Midfielder,770000,23,1727,75.1
+250365,Travis,Boak,Midfielder,769000,20,1499,75
+1012862,Elijah,Hollands,Forward,769000,21,1573,74.9
+291783,Dylan,Shiel,Midfielder,769000,9,695,77.2
+1007881,Wil,Powell,Defender,767000,18,1345,74.7
+1000072,John,Noble,Defender,763000,20,1487,74.4
+295584,Bradley,Hill,Midfielder / Forward,762000,22,1633,74.2
+1008550,Will,Day,Midfielder,760000,16,1185,74.1
+998205,Harry,Perryman,Defender,759000,19,1406,74
+993905,Callum,Mills,Defender,759000,6,419,69.8
+998529,Ivan,Soldo,Ruck,758000,8,580,72.5
+1007124,Conor,Nash,Midfielder,758000,23,1700,73.9
+996731,Charlie,Curnow,Forward,758000,21,1551,73.9
+296422,Callum,Wilkie,Defender,758000,23,1700,73.9
+993799,Brayden,Fiorini,Midfielder,758000,12,886,73.8
+998134,Josh,Battle,Defender,757000,23,1696,73.7
+298524,Lachie,Weller,Defender,756000,6,397,66.2
+1012857,Jack,Ginnivan,Forward,755000,21,1546,73.6
+993993,Shai,Bolton,Midfielder / Forward,754000,22,1617,73.5
+1002264,Hunter,Clark,Midfielder,754000,11,808,73.5
+295344,Toby,Greene,Forward,751000,22,1610,73.2
+280965,Steele,Sidebottom,Midfielder,749000,22,1606,73
+1021013,Ned,Moyle,Ruck,749000,8,621,77.6
+1009380,Jeremy,Sharp,Midfielder,749000,23,1680,73
+993878,Shaun,Mannagh,Forward,748000,10,729,72.9
+1025034,Oliver,Dempsey,Midfielder,747000,23,1674,72.8
+1008083,Connor,Idun,Defender,745000,23,1669,72.6
+1002239,Adam,Cerra,Midfielder,745000,12,871,72.6
+290627,Dion,Prestia,Midfielder,743000,13,941,72.4
+280109,Callan,Ward,Midfielder,738000,18,1295,71.9
+994386,Tom,Atkins,Midfielder,732000,20,1426,71.3
+295467,Jack,Macrae,Forward,732000,18,1285,71.4
+290550,Cameron,Guthrie,Midfielder,731000,4,253,63.3
+290826,Jamie,Cripps,Forward,729000,23,1634,71
+992010,Brayden,Maynard,Defender,729000,23,1634,71
+295461,Adam,Saad,Defender,727000,17,1205,70.9
+298630,Kyle,Langford,Forward,724000,23,1623,70.6
+1012805,Tanner,Bruhn,Midfielder,723000,15,1057,70.5
+1023270,Marcus,Windhager,Midfielder,722000,15,1056,70.4
+1031829,James,Trezise,Defender,719000,7,355,50.7
+1023515,Archie,Roberts,Defender / Midfielder,715000,4,340,85
+1019938,Logan,Evans,Defender,714000,10,696,69.6
+297255,Mitch,McGovern,Defender,712000,17,1179,69.4
+1002312,Zac,Bailey,Midfielder / Forward,709000,18,1244,69.1
+1008454,Connor,Budarick,Defender,709000,8,490,61.3
+992059,Sam,Switkowski,Forward,708000,20,1381,69.1
+1013464,Lawson,Humphries,Defender,706000,9,638,70.9
+1003130,Patrick,Lipinski,Midfielder / Forward,705000,23,1580,68.7
+1011981,Josh,Worrell,Defender,705000,13,893,68.7
+296733,Mark,Blicavs,Midfielder,704000,22,1509,68.6
+1000864,Lachlan,Bramble,Defender,704000,23,1579,68.7
+993816,Darcy,Tucker,Defender / Midfielder,703000,23,1576,68.5
+996765,Tom,Papley,Forward,701000,18,1229,68.3
+298290,Marc,Pittonet,Ruck,701000,13,888,68.3
+997033,Brennan,Cox,Defender,696000,9,466,51.8
+998114,Jack,Scrimshaw,Defender,694000,22,1488,67.6
+291776,Taylor,Adams,Midfielder / Forward,693000,19,1283,67.5
+1002235,Cam,Rayner,Forward,693000,23,1554,67.6
+295265,Nick,Haynes,Defender,690000,8,572,71.5
+1005577,Sam,Draper,Ruck,687000,16,1072,67
+1023492,Harley,Reid,Midfielder,685000,20,1334,66.7
+1009241,Brodie,Kemp,Defender,684000,20,1333,66.7
+1011994,Ryan,Byrnes,Midfielder,683000,15,999,66.6
+998484,Cameron,Zurhaar,Forward,681000,22,1461,66.4
+997100,Will,Hayward,Forward,679000,23,1523,66.2
+1015329,Billy,Dowling,Midfielder,678000,9,613,68.1
+1008541,Kysaiah,Pickett,Forward,677000,21,1386,66
+293884,Jake,Stringer,Forward,676000,23,1515,65.9
+1013257,Sam,Clohesy,Midfielder,675000,20,1315,65.8
+297899,James,Harmes,Midfielder / Forward,674000,8,559,69.9
+992128,Ryan,Burton,Defender,673000,13,853,65.6
+280317,Rhys,Stanley,Ruck,673000,12,787,65.6
+1013224,Heath,Chapman,Defender,673000,16,1050,65.6
+1027875,Darcy,Wilson,Midfielder / Forward,671000,23,1505,65.4
+990740,Rory,Lobb,Defender,670000,15,979,65.3
+1015370,Max,Michalanney,Defender,669000,23,1499,65.2
+291548,Ryan,Lester,Defender,668000,23,1497,65.1
+295067,James,Aish,Defender,668000,20,1303,65.2
+1006133,Jack,Ross,Midfielder,668000,7,446,63.7
+998130,Ben,Ainsworth,Forward,668000,17,1106,65.1
+1015873,Archie,Perkins,Midfielder,667000,18,1174,65.2
+999391,Tom,Sparrow,Midfielder,665000,21,1362,64.9
+993832,Jacob,Weitering,Defender,665000,21,1361,64.8
+1003203,Hayden,McLean,Forward,665000,23,1491,64.8
+993794,Blake,Hardwick,Defender,664000,23,1489,64.7
+1021031,Luke,Nankervis,Defender,662000,20,1290,64.5
+291313,Jeremy,Howe,Defender,662000,19,1226,64.5
+990827,Jack,Graham,Midfielder / Forward,662000,14,903,64.5
+298289,Peter,Wright,Forward,661000,14,902,64.4
+1017051,Josh,Rachele,Forward,661000,22,1417,64.4
+997230,Tyson,Stengle,Forward,660000,23,1480,64.3
+1017396,Mac,Andrew,Defender,659000,20,1285,64.3
+293801,Jamie,Elliott,Forward,659000,15,963,64.2
+291748,Brodie,Smith,Defender,657000,15,961,64.1
+993820,Tom,Cole,Defender,656000,23,1471,64
+1017063,Toby,Conway,Ruck,656000,5,376,75.2
+1017939,Ryley,Sanders,Midfielder / Forward,656000,14,895,63.9
+1020137,Mattaes,Phillipou,Midfielder / Forward,656000,13,831,63.9
+1006114,Bailey J.,Williams,Ruck,656000,23,1467,63.8
+298280,Jayden,Laverde,Defender,655000,21,1341,63.9
+1010174,Mitch,Georgiades,Forward,652000,17,1080,63.5
+296351,Jack,Billings,Midfielder / Forward,652000,16,1017,63.6
+996059,Harris,Andrews,Defender,651000,22,1396,63.5
+1002256,Paddy,Dow,Midfielder,649000,10,633,63.3
+291533,Tom,McDonald,Defender,648000,22,1389,63.1
+1013974,Mark,Keane,Defender,646000,21,1322,63
+1006533,Riley,Garcia,Forward,645000,11,692,62.9
+294596,Tim,Membrey,Forward,641000,19,1187,62.5
+1012825,Jake,Bowey,Defender,641000,14,875,62.5
+1023495,Oliver,Hollands,Midfielder,640000,22,1373,62.4
+1009301,Jamarra,Ugle-Hagan,Forward,640000,21,1310,62.4
+994385,Jayden,Hunt,Defender / Midfielder,639000,20,1245,62.3
+1008384,Riley,Thilthorpe,Forward,638000,7,478,68.3
+1000860,Lachie,Schultz,Forward,638000,20,1244,62.2
+998180,Bailey,Banfield,Forward,638000,22,1369,62.2
+294469,Aliir,Aliir,Defender,638000,22,1367,62.1
+1016825,Matthew,Johnson,Midfielder,636000,19,1178,62
+294613,Jaeger,O'Meara,Midfielder,636000,22,1364,62
+280506,Taylor,Walker,Forward,635000,18,1114,61.9
+1006013,James,Peatling,Midfielder,634000,17,1050,61.8
+295203,Nathan,Broad,Defender,632000,22,1356,61.6
+1017665,Bodhi,Uwland,Defender,631000,21,1292,61.5
+993953,Eric,Hipwood,Forward,630000,20,1228,61.4
+1004095,Jack,Lukosius,Forward,629000,21,1287,61.3
+993940,Corey,Wagner,Defender,628000,12,734,61.2
+1011803,Cody,Weightman,Forward,628000,16,979,61.2
+1005330,Kade,Chandler,Forward,627000,23,1405,61.1
+1027704,Joel,Freijah,Defender,627000,12,733,61.1
+290085,Taylor,Duryea,Defender,625000,21,1280,61
+1013409,James,Jordon,Midfielder / Forward,625000,23,1400,60.9
+294685,Zac,Williams,Defender / Forward,624000,18,1095,60.8
+1002245,Noah,Balta,Defender / Forward,624000,19,1155,60.8
+1002227,Jack,Higgins,Forward,624000,20,1217,60.9
+1011954,Nick,Bryan,Ruck,623000,5,357,71.4
+993902,Matt,Flynn,Ruck,622000,4,244,61
+1015781,Charlie,Comben,Defender,622000,19,1149,60.5
+1023708,Jaspa,Fletcher,Midfielder,620000,23,1390,60.4
+1009708,Jack,Buckley,Defender,620000,21,1270,60.5
+296355,Luke,McDonald,Defender,619000,22,1327,60.3
+1005326,Jackson,Mead,Midfielder / Forward,619000,23,1387,60.3
+997846,Conor,McKenna,Defender,619000,14,845,60.4
+1013268,Alex,Davies,Midfielder,618000,7,463,66.1
+1002404,Aaron,Naughton,Forward,618000,19,1144,60.2
+1023025,Reuben,Ginbey,Midfielder,617000,23,1383,60.1
+271129,Todd,Goldstein,Ruck,614000,14,838,59.9
+291570,Nat,Fyfe,Midfielder,613000,22,1316,59.8
+1014026,Kai,Lohmann,Forward,613000,23,1375,59.8
+1008123,Jake,Riccardi,Forward,613000,19,1135,59.7
+1006203,Chayce,Jones,Midfielder,613000,16,956,59.8
+1006127,Rhylee,West,Forward,612000,21,1252,59.6
+1012829,Will,Phillips,Midfielder,609000,11,653,59.4
+994077,Mabior,Chol,Forward,609000,21,1247,59.4
+298437,Callum,Ah Chee,Forward,609000,22,1305,59.3
+296291,Jake,Kolodjashnij,Defender,607000,22,1301,59.1
+294472,Rory,Atkins,Defender,606000,3,126,42
+1027935,Josh,Weddle,Defender,606000,23,1359,59.1
+1000887,Mitch,Lewis,Forward,605000,4,175,43.8
+1017703,Judd,McVee,Defender,605000,23,1357,59
+1027821,Caleb,Windsor,Midfielder,605000,19,1121,59
+1012807,Sam,Berry,Midfielder,604000,18,1060,58.9
+1013230,Logan,McDonald,Forward,604000,23,1353,58.8
+1005992,Joel,Jeffrey,Defender,604000,12,706,58.8
+290757,Jimmy,Webster,Defender,603000,15,882,58.8
+291720,Will,Hoskin-Elliott,Forward,602000,20,1173,58.7
+990290,Tom,Barrass,Defender,602000,18,1056,58.7
+291849,Brody,Mihocek,Forward,602000,11,645,58.6
+1026960,Will,Graham,Midfielder,601000,17,996,58.6
+1002795,Jordan,Boyd,Defender,601000,19,1113,58.6
+999331,Darcy,Fogarty,Forward,601000,23,1348,58.6
+990609,Charlie,Cameron,Forward,601000,23,1348,58.6
+1004364,Liam,Ryan,Forward,600000,16,935,58.4
+1023785,Elijah,Tsatas,Midfielder,600000,7,257,36.7
+1023167,Brady,Hough,Defender,600000,23,1345,58.5
+1023482,Cam,Mackenzie,Midfielder,598000,20,1165,58.3
+1006130,Bailey,Smith,Midfielder / Forward,598000,0,0,0
+293581,Lincoln,McCarthy,Forward,593000,8,492,61.5
+1008139,Toby,Bedford,Midfielder / Forward,591000,22,1267,57.6
+991988,Zak,Jones,Midfielder,589000,13,746,57.4
+1023272,Mitch,Owens,Forward,588000,23,1319,57.3
+1005988,Liam,Henry,Forward,588000,12,688,57.3
+1017720,Jacob,van Rooyen,Forward,586000,21,1200,57.1
+1011589,Caleb,Poulter,Midfielder,586000,7,439,62.7
+996232,Matt,Guelfi,Forward,583000,13,739,56.8
+298111,Jeremy,Finlayson,Forward,583000,12,682,56.8
+991930,Darcy,Byrne-Jones,Forward,582000,23,1305,56.7
+1016433,Shannon,Neale,Forward,581000,13,736,56.6
+1004385,Oscar,Allen,Forward,580000,11,622,56.5
+1021353,Lachlan,Cowan,Defender,580000,16,904,56.5
+1000963,Harry,Morrison,Midfielder,580000,10,565,56.5
+990882,Wayne,Milera,Defender,579000,3,187,62.3
+1002947,Paul,Curtis,Forward,578000,23,1299,56.5
+1017110,Josh,Ward,Midfielder,577000,10,562,56.2
+298281,Jake,Lever,Defender,576000,18,1010,56.1
+1006148,Bobby,Hill,Forward,576000,23,1291,56.1
+291351,Jack,Gunston,Forward,575000,16,897,56.1
+1001396,Isaac,Cumming,Midfielder,575000,4,245,61.3
+999326,Brad,Close,Forward,574000,23,1286,55.9
+993917,Ben,Long,Forward,573000,17,950,55.9
+997142,Peter,Ladhams,Ruck / Forward,571000,1,37,37
+1023473,Nick,Watson,Forward,569000,16,888,55.5
+1001017,Nick,Larkey,Forward,567000,23,1272,55.3
+1009410,Brandon,Walker,Defender,565000,19,1047,55.1
+1009229,Sam,De Koning,Defender,564000,19,1045,55
+1007102,Mark,O'Connor,Defender / Midfielder,563000,13,713,54.8
+298421,Jade,Gresham,Forward,563000,22,1207,54.9
+1008478,Rhyan,Mansell,Forward,562000,21,1151,54.8
+1017087,Harvey,Gallagher,Midfielder,562000,19,1041,54.8
+1011755,Harrison,Jones,Forward,562000,21,1150,54.8
+1020650,Darcy,Jones,Forward,562000,12,657,54.8
+1023640,Koltyn,Tholstrup,Forward,559000,10,545,54.5
+1000937,Jack,Henry,Defender,559000,23,1254,54.5
+1002403,Ben,Miller,Defender,559000,21,1144,54.5
+1004530,Jacob,Wehr,Midfielder,557000,11,597,54.3
+1002143,Ben,McKay,Defender,556000,23,1247,54.2
+1011985,Hugo,Ralphsmith,Midfielder,551000,18,966,53.7
+1012833,Eddie,Ford,Forward,551000,18,966,53.7
+1004998,Todd,Marshall,Forward,550000,18,965,53.6
+290838,Jack,Darling,Forward,550000,21,1125,53.6
+291753,Sam,Day,Forward,549000,5,315,63
+295446,Sam,Collins,Defender,549000,23,1233,53.6
+997316,Lewis,Young,Defender,547000,8,431,53.9
+1008752,Kieran,Strachan,Ruck,546000,2,140,70
+1008089,Isaac,Quaynor,Defender,546000,23,1224,53.2
+1006144,Ben,King,Forward,546000,22,1171,53.2
+1027899,Nate,Caddy,Forward,545000,10,531,53.1
+1008855,Oskar,Baker,Midfielder,544000,6,338,56.3
+1004757,Beau,McCreery,Forward,544000,17,902,53.1
+1015827,Nik,Cox,Midfielder,543000,20,1058,52.9
+1000998,Lachlan,Murphy,Forward,542000,17,898,52.8
+298211,Darcy,Fort,Ruck,542000,2,139,69.5
+1032108,Cooper,Lord,Midfielder,542000,2,139,69.5
+296225,Willie,Rioli,Forward,541000,17,896,52.7
+291978,Harry,Cunningham,Defender,539000,20,1051,52.6
+1017122,Blake,Howes,Defender,537000,16,837,52.3
+1007099,Harry,Sharp,Midfielder,536000,6,274,45.7
+1009015,Lachlan,McNeil,Forward,535000,11,574,52.2
+1002347,Jack,Payne,Defender,533000,14,727,51.9
+1009226,Thomson,Dow,Midfielder,529000,17,877,51.6
+1005247,Sam,Taylor,Defender,528000,16,824,51.5
+1006143,Max,King,Forward,528000,12,617,51.4
+281078,Liam,Jones,Defender,527000,20,1027,51.4
+1023680,Henry,Hustwaite,Midfielder,526000,4,91,22.8
+1005053,Noah,Answerth,Defender,523000,12,612,51
+1009195,Dylan,Williams,Defender,523000,5,200,40
+1002228,Lachie,Fogarty,Forward,521000,15,761,50.7
+1006059,Keidean,Coleman,Defender,521000,1,34,34
+1008893,Harrison,Petty,Forward,521000,20,1016,50.8
+1008312,Liam,Stocker,Defender,520000,16,811,50.7
+998647,Mason,Cox,Ruck / Forward,517000,16,807,50.4
+1004034,Brandon,Zerk-Thatcher,Defender,517000,23,1158,50.3
+1018018,Cooper,Sharman,Forward,515000,18,904,50.2
+1008882,Charlie,Ballard,Defender,515000,23,1157,50.3
+993480,Dougal,Howard,Defender,514000,15,752,50.1
+295136,Caleb,Daniel,Midfielder / Forward,514000,15,752,50.1
+1001438,Bayley,Fritsch,Forward,514000,23,1152,50.1
+1001024,Ned,Reeves,Ruck,512000,4,209,52.3
+1008154,Matthew,Cottrell,Midfielder / Forward,512000,14,698,49.9
+294508,Aidan,Corr,Defender,511000,23,1145,49.8
+1023275,Seth,Campbell,Forward,510000,21,1044,49.7
+291848,Robbie,Fox,Defender / Forward,510000,16,795,49.7
+1020594,Jye,Amiss,Forward,508000,22,1090,49.5
+298409,Alex,Pearce,Defender,508000,15,743,49.5
+1017086,Tom,Brown,Defender,506000,18,887,49.3
+1008239,Joe,Richards,Forward,506000,9,458,50.9
+1002220,Esava,Ratugolea,Defender,506000,20,987,49.4
+1005199,Elliott,Himmelberg,Forward,506000,9,458,50.9
+1006100,Thomas,Berry,Forward,505000,17,837,49.2
+297456,Nick,Holman,Midfielder / Forward,505000,21,1032,49.1
+1009421,Finn,Maginness,Midfielder / Forward,505000,11,541,49.2
+999321,Michael,Frederick,Forward,504000,20,983,49.2
+1013973,Matthew,Owies,Forward,501000,23,1124,48.9
+1008091,Joel,Amartey,Forward,499000,22,1070,48.6
+993979,Sam,Powell-Pepper,Forward,498000,3,170,56.7
+1017088,Ben,Hobbs,Forward,498000,12,578,48.2
+1013611,Sam,Sturt,Forward,496000,13,628,48.3
+1006550,Jack,Petruccelle,Forward,495000,16,772,48.3
+298288,Darcy,Moore,Defender,495000,23,1109,48.2
+1024279,Arie,Schoenmaker,Defender,494000,4,235,58.8
+998390,Changkuoth,Jiath,Midfielder,492000,11,527,47.9
+1023784,Anthony,Caminiti,Forward,492000,15,719,47.9
+1009317,Bruce,Reville,Midfielder,491000,12,574,47.8
+1012218,Luke,Pedlar,Forward,490000,4,99,24.8
+297504,Daniel,McStay,Forward,490000,5,281,56.2
+1013133,Braeden,Campbell,Midfielder,490000,20,955,47.8
+1004848,Dylan,Stephens,Midfielder,489000,16,763,47.7
+1006135,Xavier,O'Halloran,Midfielder / Forward,488000,17,809,47.6
+1009029,James,Borlase,Defender,488000,10,476,47.6
+294592,Kamdyn,McIntosh,Midfielder,486000,22,1043,47.4
+1023537,Jhye,Clark,Midfielder,485000,15,709,47.3
+290307,Dane,Rampe,Defender,485000,18,851,47.3
+298470,Shane,McAdam,Forward,484000,3,133,44.3
+1006030,Jacob,Koschitzke,Forward,484000,14,660,47.1
+1009551,Maurice,Rioli,Forward,483000,9,437,48.6
+998129,Will,Brodie,Midfielder,481000,0,0,0
+1002401,Brandon,Starcevich,Defender,479000,17,794,46.7
+1032966,James,O'Donnell,Defender,478000,13,606,46.6
+998480,Lachlan,Sullivan,Midfielder,477000,10,465,46.5
+1027925,Harvey,Thomas,Forward,475000,22,1019,46.3
+1013165,Andy,Moniz-Wakefield,Defender,473000,6,314,52.3
+1015777,Ryan,Angwin,Midfielder,471000,4,224,56
+996692,Marty,Hore,Defender,471000,6,313,52.2
+280824,Jake,Melksham,Forward,470000,8,352,44
+298358,Oleg,Markov,Defender,469000,12,549,45.8
+1012828,Finlay,Macrae,Midfielder / Forward,468000,9,359,39.9
+1008198,Tom,McCartin,Defender,467000,19,864,45.5
+1023500,Bailey,Humphrey,Forward,465000,21,951,45.3
+1012860,Oliver,Henry,Forward,464000,21,950,45.2
+1020371,Jack,Williams,Forward,464000,18,814,45.2
+1011583,Lachie,Jones,Defender,460000,18,807,44.8
+992374,Dan,Butler,Forward,460000,16,717,44.8
+1017114,Tyler,Sonsie,Forward,459000,14,626,44.7
+1008747,Mykelti,Lefau,Forward,459000,10,447,44.7
+1005000,Laitham,Vandermeer,Forward,458000,23,1026,44.6
+1004985,Ben,Paton,Defender / Forward,458000,4,103,25.8
+1001028,Jack,Silvagni,Forward,455000,0,0,0
+281007,Michael,Walters,Forward,454000,17,752,44.2
+1009197,Charlie,Dean,Defender,454000,8,377,47.1
+1017078,Josh,Sinn,Defender,452000,4,215,53.8
+1008230,Nick,Murray,Defender,451000,9,408,45.3
+1012386,Samson,Ryan,Ruck / Forward,450000,8,284,35.5
+1017700,Jesse,Motlop,Forward,449000,6,215,35.8
+1020968,Jackson,Archer,Defender,449000,15,657,43.8
+1019038,Aaron,Cadman,Forward,449000,21,919,43.8
+1013197,Sam,Banks,Midfielder,448000,15,655,43.7
+998782,Buku,Khamis,Defender,448000,17,743,43.7
+1020339,Angus,Sheldrick,Midfielder,448000,0,0,0
+1028019,Logan,Morris,Forward,445000,15,651,43.4
+1032100,Calsher,Dear,Forward,445000,15,650,43.3
+1017128,Dante,Visentini,Ruck,443000,3,164,54.7
+1013220,Nathan,O'Driscoll,Midfielder,441000,2,101,50.5
+296190,Jack,Martin,Forward,438000,3,93,31
+1024666,Lloyd,Johnston,Forward,437000,7,328,46.9
+1022915,Edward,Allan,Midfielder,437000,2,112,56
+293813,Tom,Lynch,Forward,435000,4,163,40.8
+1020250,Neil,Erasmus,Midfielder / Forward,435000,4,103,25.8
+1023496,Noah,Long,Forward,434000,7,305,43.6
+1020959,Daniel,Turner,Forward,434000,15,634,42.3
+1003520,Darragh,Joyce,Defender,433000,6,288,48
+990816,Aaron,Francis,Defender,433000,5,248,49.6
+1021103,Mitch,Knevitt,Midfielder,431000,4,165,41.3
+1004995,Jordon,Butts,Defender,431000,15,630,42
+1016268,Alex,Cincotta,Defender,430000,16,671,41.9
+1000068,Chris,Burgess,Forward,428000,7,321,45.9
+1017065,Zac,Taylor,Midfielder / Forward,427000,9,386,42.9
+1027971,Toby,McMullin,Forward,427000,13,541,41.6
+290314,Lachlan,Keeffe,Ruck,427000,3,158,52.7
+1008543,Harry,Schoenberg,Forward,427000,4,167,41.8
+1014038,Callum M.,Brown,Forward,426000,13,540,41.5
+1018335,Brayden,Cook,Forward,425000,15,622,41.5
+294013,Sean,Lemmens,Defender,424000,3,157,52.3
+290832,David,Swallow,Defender / Forward,424000,20,826,41.3
+1005986,Malcolm,Rosas,Forward,422000,7,285,40.7
+1029416,Ryan,Maric,Midfielder / Forward,421000,19,779,41
+1017124,Ned,Long,Midfielder,421000,7,316,45.1
+1013229,Jacob,Blight,Defender,421000,3,156,52
+1027790,Hugo,Garcia,Midfielder / Forward,421000,8,349,43.6
+1017255,Francis,Evans,Forward,421000,14,574,41
+1017077,Angus,McLennan,Defender,421000,2,108,54
+1015332,Harvey,Harrison,Forward,420000,12,491,40.9
+1017057,Campbell,Chesser,Midfielder,418000,18,733,40.7
+1008691,Leek,Aleer,Defender,412000,8,342,42.8
+1013233,Jack,Carroll,Midfielder / Forward,411000,15,601,40.1
+1017118,Josh,Goater,Defender,408000,1,32,32
+293883,Jed,Bews,Defender,408000,3,151,50.3
+1000061,Callum,Coleman-Jones,Forward,408000,3,78,26
+1011437,Harry,Edwards,Defender,407000,9,368,40.9
+1005717,Nick,Coffield,Defender,404000,8,335,41.9
+997933,Griffin,Logue,Defender,404000,2,99,49.5
+1023346,Liam,Reidy,Ruck,402000,2,103,51.5
+1007591,Brynn,Teakle,Forward,402000,11,431,39.2
+1024982,Oisin,Mullin,Defender,400000,10,390,39
+1011243,Callum,Jamieson,Defender,400000,4,190,47.5
+1000932,Tom,Doedee,Defender,399000,0,0,0
+1012144,Kallan,Dawson,Defender,399000,11,428,38.9
+1019916,Kane,McAuliffe,Midfielder,396000,9,358,39.8
+1017091,Jai,Serong,Defender,395000,4,149,37.3
+1013201,Jye,Menzie,Forward,394000,14,538,38.4
+1020668,Joshua,Draper,Defender,394000,20,768,38.4
+1023533,Jaxon,Binns,Midfielder,394000,3,146,48.7
+1006232,Sam,Wicks,Forward,393000,16,613,38.3
+280744,Luke,Breust,Forward,393000,17,651,38.3
+996743,Lewis,Melican,Defender,392000,21,802,38.2
+1018433,Tylar,Young,Defender,389000,9,352,39.1
+1017754,Patrick,Voss,Forward,385000,7,289,41.3
+1036098,Jack,Hutchinson,Forward,385000,7,289,41.3
+293738,Sam,Frost,Defender,384000,23,861,37.4
+991773,Billy,Frampton,Defender,382000,18,670,37.2
+999824,Quinton,Narkle,Forward,381000,10,371,37.1
+991939,Zaine,Cordy,Defender,378000,8,285,35.6
+992048,Anthony,Scott,Midfielder / Forward,378000,2,50,25
+1029261,Bailey,Macdonald,Defender,377000,0,0,0
+1023494,Zane,Duursma,Forward,373000,13,473,36.4
+1028105,Shadeau,Brain,Defender,373000,9,337,37.4
+997974,Ash,Johnson,Forward,371000,3,54,18
+1021152,Jacob,Bauer,Forward,370000,3,137,45.7
+296269,Darcy,Gardiner,Forward,369000,7,267,38.1
+1010708,Sam,Butler,Forward,364000,2,54,27
+1017095,Miller,Bergman,Defender,364000,3,95,31.7
+1013511,Tyler,Brockman,Forward,362000,10,353,35.3
+1009386,Jaxon,Prior,Defender,362000,4,170,42.5
+296334,Orazio,Fantasia,Forward,361000,14,492,35.1
+1018016,Seamus,Mitchell,Defender,357000,10,348,34.8
+1023056,Steely,Green,Forward,355000,6,236,39.3
+1018123,Jake,Rogers,Forward,354000,9,320,35.6
+1023736,Jed,Walter,Forward,353000,14,481,34.4
+1023625,Riley,Hardeman,Defender,351000,3,130,43.3
+1004819,Jed,McEntee,Forward,351000,13,445,34.2
+1028491,Sam,Lalor ,Midfielder,340000,0,0,0
+1023534,Hugh,Bond,Defender,340000,7,255,36.4
+1002282,Charlie,Spargo,Forward,340000,1,36,36
+1002138,Toby,Pink,Forward,338000,15,494,32.9
+1018425,Taj,Woewodin,Defender,337000,16,525,32.8
+1028495,Finn,O'Sullivan ,Midfielder,337000,0,0,0
+1015929,Luke,Cleary,Defender,335000,2,86,43
+1028515,Jagga,Smith ,Midfielder,334000,0,0,0
+1020802,Jai,Culley,Midfielder / Forward,332000,3,121,40.3
+1020670,Elijah,Hewett,Midfielder / Forward,332000,0,0,0
+1022607,Sid,Draper ,Midfielder,331000,0,0,0
+1028560,Levi,Ashcroft,Midfielder,328000,0,0,0
+1028546,Harvey,Langford ,Midfielder,325000,0,0,0
+1013278,Reef,McInnes,Forward,324000,9,293,32.6
+1012826,Bailey,Laurie,Midfielder / Forward,324000,6,215,35.8
+1023142,Tyrell,Dewar,Forward,323000,7,242,34.6
+1028572,Josh,Smillie ,Midfielder,322000,0,0,0
+1032629,Joe,Fonti,Defender,322000,4,153,38.3
+1020979,Cooper,Harvey,Forward,321000,0,0,0
+1028538,Tobie,Travaglia,Defender / Midfielder,319000,0,0,0
+1012873,Wil,Parker,Defender,317000,5,182,36.4
+290246,Tom,Campbell,Ruck,316000,2,81,40.5
+1012881,Ollie,Lord,Forward,316000,6,202,33.7
+1029301,Leonardo,Lombard,Midfielder,316000,0,0,0
+1008510,Corey,Durdin,Forward,316000,13,400,30.8
+1021015,Karl,Worner,Defender,315000,4,144,36
+1016189,Henry,Smith,Forward,315000,4,150,37.5
+295222,Joel,Hamling,Forward,314000,0,0,0
+1030433,Alixzander,Tauru,Defender / Forward,313000,0,0,0
+1028531,Xavier,Lindsay,Midfielder,310000,0,0,0
+1032106,Taj,Hotton,Midfielder / Forward,307000,0,0,0
+1028554,Isaac,Kako,Midfielder / Forward,304000,0,0,0
+1021200,Lachlan,McAndrew,Ruck,302000,0,0,0
+1028498,Jonty,Faull,Forward,301000,0,0,0
+1009385,Deven,Robertson,Midfielder / Forward,301000,2,54,27
+1024023,Daniel,Curtin,Forward,300000,7,225,32.1
+1027877,Connor,O'Sullivan,Defender,300000,1,40,40
+1028529,Joe,Berry,Forward,298000,0,0,0
+1017043,Judson,Clarke,Forward,297000,1,17,17
+1023144,Robert,Hansen Jr,Forward,295000,6,196,32.7
+1028449,Bo,Allan ,Defender / Midfielder,295000,0,0,0
+1028513,Murphy,Reid ,Midfielder,292000,0,0,0
+1012127,Brandon,Ryan,Forward,290000,1,19,19
+1028485,Oliver,Hannaford,Midfielder / Forward,289000,0,0,0
+1028562,Harrison,Oliver,Defender,286000,0,0,0
+992472,Oscar,McDonald,Defender,285000,1,38,38
+1020586,Arthur,Jones,Forward,285000,1,38,38
+1017933,Alwyn,Davey Jnr,Forward,284000,10,277,27.7
+1029456,Cooper,Hynes,Midfielder,283000,0,0,0
+1028521,Luke,Trainor,Defender,280000,0,0,0
+997501,Ryan,Gardner,Defender,279000,0,0,0
+1013532,Tom,Fullarton,Forward,278000,0,0,0
+1027965,Max,Ramsden,Forward,278000,3,103,34.3
+1029589,Jesse,Dattoli,Midfielder / Forward,277000,0,0,0
+1028525,Harry,Armstrong ,Forward,274000,0,0,0
+1032619,Cody,Angove ,Midfielder / Forward,271000,0,0,0
+1028520,Sam,Marshall,Midfielder,268000,0,0,0
+1024188,Clay,Hall,Midfielder,267000,3,99,33
+1023542,Ted,Clohesy,Midfielder / Forward,265000,2,68,34
+1027406,Ned,Bowman,Forward,265000,0,0,0
+999715,Jy,Farrar,Defender,265000,0,0,0
+1028547,Matt,Whitlock,Defender / Forward,262000,0,0,0
+1027969,Harvey,Johnston,Defender,260000,6,173,28.8
+1018996,Thomas,Sims ,Ruck / Forward,259000,0,0,0
+1018424,Corey,Warner,Forward,257000,6,171,28.5
+1028493,Lachie,Jaques,Defender,256000,0,0,0
+1031913,Jobe,Shanahan,Forward,253000,0,0,0
+1006087,Caleb,Graham,Defender,252000,0,0,0
+1034235,Josh,Dolan,Forward,250000,0,0,0
+1028545,James,Barrat,Defender / Forward,247000,0,0,0
+1032053,Jack,Whitlock,Forward,244000,0,0,0
+1024057,Caiden,Cleary,Forward,244000,5,140,28
+1017751,Josh,Fahey,Defender,242000,0,0,0
+1027155,Charlie,Nicholls,Forward,241000,0,0,0
+1028643,Noah,Mraz,Defender,238000,0,0,0
+1028539,Jack,Ough,Midfielder,235000,0,0,0
+1029159,Kayle,Gerreyn ,Ruck,232000,0,0,0
+1032650,Zane,Zakostelsky,Defender / Ruck,230000,0,0,0
+1028519,Zak,Johnson,Midfielder,230000,0,0,0
+1038801,Zak,Evans,Midfielder,230000,0,0,0
+1012817,Zach,Reid,Defender,230000,1,17,17
+1028489,Xavier,Ivisic,Midfielder,230000,0,0,0
+1029158,Xavier,Walsh,Forward,230000,0,0,0
+1027901,William,Green,Ruck,230000,0,0,0
+1032922,William,Hayes,Midfielder / Forward,230000,0,0,0
+1022410,William,McCabe,Defender,230000,0,0,0
+1017757,William,Edwards,Defender,230000,0,0,0
+1015473,Will,Verrall,Ruck,230000,0,0,0
+1029405,Will,McLachlan,Forward,230000,0,0,0
+1029262,Will,Lorenz,Midfielder,230000,1,25,25
+1027713,Will,White,Forward,230000,0,0,0
+1028551,Wil,Dawson,Defender,230000,3,73,24.3
+1016140,Wade,Derksen,Forward,230000,0,0,0
+1027966,Vigo,Visentini,Ruck,230000,0,0,0
+1022447,Tyler,Welsh,Forward,230000,0,0,0
+1034411,Ty,Gallop,Forward,230000,0,0,0
+1022371,Tom,Cochrane,Midfielder,230000,0,0,0
+1027687,Tom,Hanily,Midfielder,230000,0,0,0
+1028561,Tom,Gross,Midfielder,230000,0,0,0
+1027870,Tom,Anastasopoulos,Forward,230000,0,0,0
+1020950,Toby,Murray,Forward,230000,0,0,0
+1018323,Thomas,Edwards,Forward,230000,0,0,0
+1032017,Tew,Jiath,Defender,230000,1,27,27
+1031506,Taylor,Goad,Ruck,230000,0,0,0
+1013315,Sandy,Brock,Defender,230000,0,0,0
+1036123,Sam,Davidson,Forward,230000,0,0,0
+1015919,Saad,El-Hawli,Defender / Midfielder,230000,0,0,0
+1035129,Rob,Monahan,Forward,230000,0,0,0
+1031989,River,Stevens,Midfielder / Forward,230000,0,0,0
+1008224,Riley,Bice,Defender,230000,0,0,0
+1029211,Ricky,Mentha ,Defender / Forward,230000,0,0,0
+1027659,Riak,Andrew,Defender,230000,0,0,0
+1032023,Rhys,Unwin,Midfielder,230000,0,0,0
+1017718,Rhett,Bazzo,Defender,230000,1,26,26
+1024187,Reece,Torrent,Midfielder,230000,0,0,0
+1032042,Phoenix,Gothard,Forward,230000,0,0,0
+1032081,Patrick,Retschko,Midfielder,230000,0,0,0
+1028514,Patrick,Said,Midfielder / Forward,230000,0,0,0
+1024685,Patrick,Snell,Defender / Forward,230000,0,0,0
+1022844,Oscar,Steene,Ruck / Forward,230000,0,0,0
+1027893,Oscar,Ryan,Defender,230000,0,0,0
+1027990,Ollie,Murphy,Defender,230000,0,0,0
+1035199,Oliver,Hayes-Brown,Ruck,230000,0,0,0
+1029973,Oliver,Sestan,Forward,230000,0,0,0
+1020881,Oliver,Wiltshire,Midfielder / Forward,230000,0,0,0
+1028371,Odin,Jones,Ruck,230000,0,0,0
+1023743,Nicholas,Madden,Ruck,230000,0,0,0
+1034066,Nathan,Wardius,Forward,230000,0,0,0
+1024304,Mitchell,Edwards,Ruck,230000,0,0,0
+1015886,Max,Heath,Ruck / Forward,230000,0,0,0
+1027701,Max,Knobel,Ruck,230000,0,0,0
+1020855,Max,Hall,Midfielder / Forward,230000,0,0,0
+1027921,Max,Gruzewski,Forward,230000,4,68,17
+1023486,Matthew,Jefferson,Forward,230000,0,0,0
+1027964,Matthew,Carroll,Defender,230000,0,0,0
+1039500,Matt,Hill,Defender,230000,0,0,0
+1039720,Matt,Duffy,Defender,230000,0,0,0
+1021660,Mate,Colina,Ruck,230000,0,0,0
+1029136,Malakai,Champion,Forward,230000,0,0,0
+1024337,Luker,Kentfield,Forward,230000,0,0,0
+1032112,Luke,Kennedy,Midfielder,230000,0,0,0
+1029281,Luke,Urquhart,Midfielder,230000,0,0,0
+1027985,Luke,Lloyd,Forward,230000,0,0,0
+1008805,Luke,Beecken,Defender,230000,0,0,0
+1018992,Lucca,Grego,Midfielder,230000,0,0,0
+1022452,Lucas,Camporeale,Midfielder,230000,0,0,0
+1027706,Luamon,Lual,Defender,230000,0,0,0
+1032161,Logan,Smith,Ruck,230000,0,0,0
+1020032,Loch,Rawlinson,Forward,230000,1,22,22
+1035198,Liam,O'Connell,Defender,230000,0,0,0
+1022383,Liam,Fawcett,Forward,230000,0,0,0
+1023487,Lewis,Hayes,Defender,230000,0,0,0
+1032114,Lennox,Hoffman,Defender,230000,0,0,0
+1017959,Lance,Collard,Forward,230000,3,24,8
+1027702,Lachlan,Smith,Ruck,230000,0,0,0
+1029304,Lachlan,Gulbin ,Forward,230000,0,0,0
+1014013,Lachlan,Charleson,Midfielder / Forward,230000,0,0,0
+1027949,Kynan,Brown,Midfielder,230000,2,17,8.5
+1032141,Keighton,Matofai-Forbes,Forward,230000,0,0,0
+1035372,Karl,Gallagher,Defender,230000,0,0,0
+1022999,Kaleb,Smith,Defender,230000,4,105,26.3
+1017059,Josh,Gibcus,Defender,230000,2,51,25.5
+1040300,Josh,Lai,Midfielder,230000,0,0,0
+1029030,Josaia,Delana,Midfielder,230000,0,0,0
+1013996,Jordan,Croft,Forward,230000,0,0,0
+1029000,Joel,Cochran,Defender,230000,0,0,0
+1027854,Joe,Pike,Ruck,230000,0,0,0
+1023017,Jedd,Busslinger,Defender,230000,0,0,0
+1023174,Jed,Adams,Defender,230000,0,0,0
+1018987,Jayden,Nguyen,Defender / Midfielder,230000,0,0,0
+1027428,Jay,Polkinghorne,Forward,230000,0,0,0
+1018122,Jasper,Scaife,Forward,230000,0,0,0
+1028537,Jasper,Alger ,Forward,230000,0,0,0
+1023047,Jaren,Carr,Forward,230000,0,0,0
+1032119,James,Leake,Defender,230000,0,0,0
+1021108,James,Tunstill,Midfielder / Forward,230000,3,71,23.7
+1011839,James,Blanck,Defender,230000,0,0,0
+1020104,Jakob,Ryan,Defender,230000,0,0,0
+1039499,Jaime,Uhr-Henry,Ruck,230000,0,0,0
+1027006,Jacob,Molier,Ruck,230000,0,0,0
+1023530,Jacob,Konstanty,Forward,230000,0,0,0
+1038914,Jacob,Moss,Defender,230000,0,0,0
+1019975,Jack,Delean,Forward,230000,0,0,0
+1009392,Jack,Buller,Forward,230000,0,0,0
+1008183,Jack,Henderson,Midfielder,230000,0,0,0
+1011558,Isaiah,Dudley,Forward,230000,0,0,0
+1015323,Isaac,Keeler,Forward,230000,0,0,0
+1027058,Indhi,Kirk,Midfielder,230000,0,0,0
+1027834,Iliro,Smit,Ruck,230000,0,0,0
+1029148,Hugh,Boxshall,Midfielder,230000,0,0,0
+1015330,Hugh,Jackson,Midfielder,230000,0,0,0
+1022927,Hugh,Davies,Defender,230000,2,32,16
+1023489,Hudson,O'Keeffe,Ruck,230000,0,0,0
+1020057,Harry,Barnett,Ruck,230000,1,29,29
+1028496,Harry,Charleson,Defender / Midfielder,230000,0,0,0
+1028526,Harry,O'Farrell,Defender,230000,0,0,0
+1020072,Harry,Lemmey,Forward,230000,0,0,0
+1021122,Harry,Rowston,Midfielder,230000,0,0,0
+1027673,Harry,DeMattia,Midfielder,230000,0,0,0
+1000958,Harry,Boyd,Ruck,230000,0,0,0
+1032624,Hamish,Davis,Midfielder / Forward,230000,0,0,0
+1023681,George,Stevens,Midfielder,230000,0,0,0
+1027726,Geordie,Payne,Midfielder / Forward,230000,0,0,0
+1031792,Finnbar,Maley,Ruck / Forward,230000,0,0,0
+1027033,Ethan,Read,Forward,230000,4,82,20.5
+1039730,Eamonn,Armstrong,Defender,230000,0,0,0
+1024193,Darcy,Craven,Forward,230000,0,0,0
+1029065,Cooper,Bell,Defender / Forward,230000,0,0,0
+1027656,Cooper,Simpson,Forward,230000,2,47,23.5
+1015862,Conor,Stone,Forward,230000,4,62,15.5
+1028291,Coen,Livingstone,Ruck / Forward,230000,0,0,0
+1028566,Cody,Anderson,Midfielder,230000,0,0,0
+1039509,Cillian,Burke,Defender,230000,0,0,0
+1028563,Christian,Moraes,Midfielder,230000,0,0,0
+1028671,Charlie,Edwards,Defender / Midfielder,230000,0,0,0
+1027382,Charlie,West,Ruck / Forward,230000,0,0,0
+1036103,Campbell,Gray,Defender / Forward,230000,0,0,0
+1024096,Caleb,Mitchell,Midfielder,230000,2,36,18
+1023544,Brayden,George,Forward,230000,0,0,0
+1022473,Bodie,Ryan,Defender,230000,0,0,0
+1028564,Blake,Leidler,Defender,230000,0,0,0
+1027678,Billy,Wilson,Defender / Midfielder,230000,0,0,0
+1022601,Benny,Barrett ,Midfielder,230000,0,0,0
+1027282,Ben,Camporeale,Midfielder,230000,0,0,0
+1011950,Ben,Jepson,Defender,230000,0,0,0
+1020097,Ashton,Moir,Forward,230000,2,56,28
+1028541,Asher,Eastham,Forward,230000,0,0,0
+1029265,Archer,Day-Wicks,Midfielder / Forward,230000,0,0,0
+1027693,Archer,Reid,Ruck / Forward,230000,0,0,0
+1027284,Angus,Clarke ,Defender,230000,0,0,0
+1027872,Angus,Hastie,Midfielder,230000,5,99,19.8
+1027011,Alex,Dodson ,Ruck,230000,0,0,0
+1028228,Aiden,Riddle,Ruck,230000,0,0,0
+1024173,Aidan,Johnson,Forward,230000,0,0,0
